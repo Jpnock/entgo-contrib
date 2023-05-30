@@ -1,4 +1,4 @@
-module entgo.io/contrib
+module github.com/jpnock/entgo-contrib
 
 go 1.18
 
